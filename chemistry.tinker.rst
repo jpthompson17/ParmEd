@@ -4,22 +4,6 @@ chemistry.tinker package
 Submodules
 ----------
 
-chemistry.tinker.parameterfile module
--------------------------------------
-
-.. automodule:: chemistry.tinker.parameterfile
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.tinker.parameters module
-----------------------------------
-
-.. automodule:: chemistry.tinker.parameters
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 chemistry.tinker.system module
 ------------------------------
 
@@ -35,15 +19,6 @@ chemistry.tinker.tinkerfiles module
     :members:
     :undoc-members:
     :show-inheritance:
-
-chemistry.tinker.topologyobjects module
----------------------------------------
-
-.. automodule:: chemistry.tinker.topologyobjects
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 
 Module contents
 ---------------

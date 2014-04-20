@@ -13,22 +13,6 @@ Subpackages
 Submodules
 ----------
 
-chemistry.exceptions module
----------------------------
-
-.. automodule:: chemistry.exceptions
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.molecule module
--------------------------
-
-.. automodule:: chemistry.molecule
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 chemistry.periodic_table module
 -------------------------------
 

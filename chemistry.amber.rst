@@ -6,8 +6,6 @@ Subpackages
 
 .. toctree::
 
-    chemistry.amber.mdin
-
 Submodules
 ----------
 
@@ -40,7 +38,7 @@ chemistry.amber.amberformat module
 
 .. automodule:: chemistry.amber.amberformat
     :members:
-    :undoc-members:
+    :undoc-members: FortranFormat
     :show-inheritance:
 
 chemistry.amber.asciicrd module
@@ -48,23 +46,7 @@ chemistry.amber.asciicrd module
 
 .. automodule:: chemistry.amber.asciicrd
     :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.constants module
---------------------------------
-
-.. automodule:: chemistry.amber.constants
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.leaprc module
------------------------------
-
-.. automodule:: chemistry.amber.leaprc
-    :members:
-    :undoc-members:
+    :undoc-members: _AmberAsciiCoordinateFile
     :show-inheritance:
 
 chemistry.amber.mask module
@@ -72,7 +54,7 @@ chemistry.amber.mask module
 
 .. automodule:: chemistry.amber.mask
     :members:
-    :undoc-members:
+    :undoc-members: _mask
     :show-inheritance:
 
 chemistry.amber.netcdffiles module
@@ -96,15 +78,7 @@ chemistry.amber.openmmreporters module
 
 .. automodule:: chemistry.amber.openmmreporters
     :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.parameters module
----------------------------------
-
-.. automodule:: chemistry.amber.parameters
-    :members:
-    :undoc-members:
+    :undoc-members: EnergyMinimizerReporter
     :show-inheritance:
 
 chemistry.amber.readparm module
@@ -114,31 +88,6 @@ chemistry.amber.readparm module
     :members:
     :undoc-members:
     :show-inheritance:
-
-chemistry.amber.residue module
-------------------------------
-
-.. automodule:: chemistry.amber.residue
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.tinkertopology module
--------------------------------------
-
-.. automodule:: chemistry.amber.tinkertopology
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.topologyobjects module
---------------------------------------
-
-.. automodule:: chemistry.amber.topologyobjects
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 
 Module contents
 ---------------

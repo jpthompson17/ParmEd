@@ -4,14 +4,6 @@ chemistry.charmm package
 Submodules
 ----------
 
-chemistry.charmm._charmmfile module
------------------------------------
-
-.. automodule:: chemistry.charmm._charmmfile
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 chemistry.charmm.charmmcrds module
 ----------------------------------
 
@@ -43,15 +35,6 @@ chemistry.charmm.psf module
     :members:
     :undoc-members:
     :show-inheritance:
-
-chemistry.charmm.topologyobjects module
----------------------------------------
-
-.. automodule:: chemistry.charmm.topologyobjects
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 
 Module contents
 ---------------
