@@ -1,0 +1,62 @@
+chemistry.charmm package
+========================
+
+Submodules
+----------
+
+chemistry.charmm._charmmfile module
+-----------------------------------
+
+.. automodule:: chemistry.charmm._charmmfile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+chemistry.charmm.charmmcrds module
+----------------------------------
+
+.. automodule:: chemistry.charmm.charmmcrds
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+chemistry.charmm.openmmloader module
+------------------------------------
+
+.. automodule:: chemistry.charmm.openmmloader
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+chemistry.charmm.parameters module
+----------------------------------
+
+.. automodule:: chemistry.charmm.parameters
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+chemistry.charmm.psf module
+---------------------------
+
+.. automodule:: chemistry.charmm.psf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+chemistry.charmm.topologyobjects module
+---------------------------------------
+
+.. automodule:: chemistry.charmm.topologyobjects
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: chemistry.charmm
+    :members:
+    :undoc-members:
+    :show-inheritance:
