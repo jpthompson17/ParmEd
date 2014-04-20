@@ -9,38 +9,6 @@ Subpackages
 Submodules
 ----------
 
-chemistry.amber._amberparm module
----------------------------------
-
-.. automodule:: chemistry.amber._amberparm
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber._chamberparm module
------------------------------------
-
-.. automodule:: chemistry.amber._chamberparm
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber._tinkerparm module
-----------------------------------
-
-.. automodule:: chemistry.amber._tinkerparm
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-chemistry.amber.amberformat module
-----------------------------------
-
-.. automodule:: chemistry.amber.amberformat
-    :members:
-    :undoc-members: FortranFormat
-    :show-inheritance:
-
 chemistry.amber.asciicrd module
 -------------------------------
 
