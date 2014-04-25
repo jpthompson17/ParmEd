@@ -17,7 +17,7 @@ chemistry.charmm.openmmloader module
 
 .. automodule:: chemistry.charmm.openmmloader
     :members:
-    :undoc-members:
+    :undoc-members: _OpenMMRestartFile
     :show-inheritance:
 
 chemistry.charmm.parameters module
